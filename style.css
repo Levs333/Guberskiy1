@@ -1,0 +1,19 @@
+body{
+  font-family: sans-serif;
+  background-color: darkgreen;
+  text-align: center;
+  font-size: 20px;
+}
+
+/*Зроби цей сайт красивим 😉*/
+
+header{
+    background-color:purple;
+}
+img{
+    width:350px;
+}
+
+footer{
+    background-color:purple;
+}
